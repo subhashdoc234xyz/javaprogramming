@@ -1,4 +1,4 @@
-package oopconcept;
+
 class student {
 
     String name;
